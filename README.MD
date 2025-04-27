@@ -2,7 +2,7 @@
 
 A vanilla JavaScript, HTML, and CSS implementation of an AI Safety Incident Dashboard for HumanChain's frontend intern take-home assignment.
 
-![AI Safety Incident Dashboard Screenshot](https://drive.google.com/file/d/1L8OYGNHdXt3Njgd3ORfEkF3yiUWXap1E/view?usp=sharing)
+![AI Safety Incident Dashboard Screenshot](https://github.com/Ramakant-yadav/AI-Safety-Incident-Dashboard/blob/7fc7b13327f3b4ec101d40063b9142d14ba85276/Screenshot%202025-04-27%20210144.png)
 
 ## Features
 
