@@ -1,0 +1,20 @@
+body {
+  background-image: radial-gradient(circle at top left, #e0f7fa, #ffffff);
+}
+
+.severity-high {
+  background-color: #fee2e2;
+  color: #b91c1c;
+}
+.severity-medium {
+  background-color: #fef9c3;
+  color: #92400e;
+}
+.severity-low {
+  background-color: #d1fae5;
+  color: #065f46;
+}
+
+.incident-card {
+  transition: all 0.3s ease-in-out;
+}
