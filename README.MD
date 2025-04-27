@@ -21,31 +21,6 @@ A vanilla JavaScript, HTML, and CSS implementation of an AI Safety Incident Dash
 3. Alternatively, serve the files using a local server (e.g., `python -m http.server` or VS Code's Live Server).
 
 
-## Project Structure
-
-
-src/
-├── components/         # UI components
-│   ├── Background3D.tsx     # 3D background using Three.js
-│   ├── EmptyState.tsx       # Component shown when no incidents match filters
-│   ├── FilterControls.tsx   # Filtering and sorting controls
-│   ├── IncidentForm.tsx     # Form for reporting new incidents
-│   ├── IncidentItem.tsx     # Individual incident card component
-│   └── ToastNotification.tsx # Notification component
-├── data/               # Mock data
-│   └── mockData.ts          # Initial incident data
-├── services/           # Service layer
-│   └── storageService.ts    # Local storage service for data persistence
-├── types/              # TypeScript type definitions
-│   └── types.ts             # Common type definitions
-├── utils/              # Utility functions
-│   ├── dateUtils.ts         # Date formatting utilities
-│   └── filterUtils.ts       # Filtering and sorting utilities
-├── App.css             # Main application styles
-├── App.tsx             # Main application component
-├── index.css           # Global styles
-└── index.tsx           # Application entry point
-
 
 ## Design Decisions
 
